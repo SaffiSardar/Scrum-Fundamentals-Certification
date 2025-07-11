@@ -28,28 +28,30 @@
 ###  -> Release
 
 ## Cycle:
-1. Project Business Case
+<details> <summary>📘 Click to view Scrum Workflow Diagram</summary>
+1. 📄 Project Business Case
        ↓
-2. Project Vision Statement
+2. 🧭 Project Vision Statement
        ↓
-3. Prioritized Product Backlog
+3. 🗂️ Prioritized Product Backlog
        ↓
-4. Release Planning Schedule  ←── Sprint Planning Meeting
+4. 📆 Release Planning Schedule     ←── 📝 Sprint Planning Meeting
        ↓
-5. Sprint Backlog
+5. 🧾 Sprint Backlog
        ↓
-┌────────────────────────────────────────────........┐
-│            Sprint Execution Loop                   │
-│                                                    │
-│   🌀 Daily Standup                                 │
-│        ↓                                           │
-│   🏗️  Create Deliverables                          │
-│        ↓                                           │
-│   ✅ Sprint Review Meeting                         │
-│        ↓                                           │
-│   🔍 Sprint Retrospective Meeting                  │
-│        ↓                                           │
-│   🔁 Back to Sprint Backlog (next cycle planning)  │
-└──────────────────────────────────────────........──┘
+       ┌────────────────────────────────────────────────────────┐
+       │                   🔁 Sprint Execution Loop              │
+       │                                                        │
+       │   🌀 Daily Standup                                      │
+       │       ↓                                                │
+       │   🏗️  Create Deliverables                              │
+       │       ↓                                                │
+       │   ✅ Sprint Review Meeting                              │
+       │       ↓                                                │
+       │   🔍 Sprint Retrospective Meeting                       │
+       │       ↓                                                │
+       │   🔁 Back to Sprint Backlog (next cycle planning)       │
+       └────────────────────────────────────────────────────────┘
        ↓
-9. ✅ Accepted Deliverables
+6. 📦 ✅ Accepted Deliverables
+</details>
