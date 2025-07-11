@@ -1,9 +1,13 @@
 # Scrum-Fundamentals-Certification Notes
 
+
+
+
 ## SBOK Frameworks:
 ###  -> Scrum Principles
 ###  -> Scrum Processes
 ###  -> Scrum Aspects
+
 
 ## Scrum Principles:
 ###  -> Iterative Development
@@ -12,6 +16,7 @@
 ###  -> Collaboration
 ###  -> Value Bases Prioritization
 ###  -> Time Boxing
+
 
 ## Scrum Aspects:
 ###  -> Organization
