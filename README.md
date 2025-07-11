@@ -29,29 +29,5 @@
 
 ## Cycle:
 <details> <summary>📘 Click to view Scrum Workflow Diagram</summary>
-1. 📄 Project Business Case
-       ↓
-2. 🧭 Project Vision Statement
-       ↓
-3. 🗂️ Prioritized Product Backlog
-       ↓
-4. 📆 Release Planning Schedule     ←── 📝 Sprint Planning Meeting
-       ↓
-5. 🧾 Sprint Backlog
-       ↓
-       ┌────────────────────────────────────────────────────────┐
-       │                   🔁 Sprint Execution Loop              │
-       │                                                        │
-       │   🌀 Daily Standup                                      │
-       │       ↓                                                │
-       │   🏗️  Create Deliverables                              │
-       │       ↓                                                │
-       │   ✅ Sprint Review Meeting                              │
-       │       ↓                                                │
-       │   🔍 Sprint Retrospective Meeting                       │
-       │       ↓                                                │
-       │   🔁 Back to Sprint Backlog (next cycle planning)       │
-       └────────────────────────────────────────────────────────┘
-       ↓
-6. 📦 ✅ Accepted Deliverables
+![Scrum Flow](https://user-images.githubusercontent.com/Screenshot from 2025-07-11 20-36-10.png)
 </details>
