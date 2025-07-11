@@ -29,5 +29,7 @@
 
 ## Cycle:
 <details> <summary>📘 Click to view Scrum Workflow Diagram</summary>
-![Scrum Flow](https://user-images.githubusercontent.com/Screenshot from 2025-07-11 20-36-10.png)
+  
+  ![Scrum Workflow](./Screenshot%20from%202025-07-11%2020-36-10.png)
+
 </details>
