@@ -77,11 +77,13 @@
   
 ### Quality
 
--Determined by acceptance of Deliverables and features
+- Determined by acceptance of Deliverables and features
 
 ### Change
 
--
+- Use change to maximize benifits and minimize negative impacts
+- An example of change is change demanded from stakeholders (Requirements Churn)
+- Welcome change by managing sprints(short sprints)
 
 ### Risk
 
