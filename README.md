@@ -8,7 +8,11 @@ Responsible for AChieveing maximum business value for the project, articulates c
 ##### Scrum Master
 Ensures a impactful environment, he guides, teaches, facilitates scrum practices to the entire team, He also ensures all the scrum modules are being followed. He also has the authority to conduct training session for the team as well as initiate hirings.
 ##### Scrum Team
-Responsible for understanding product requirements
+Responsible for understanding product requirements and created the project deliverables
+### Non-Core Roles:
+#### Assigned to:
+##### Product Owner
+
 
 ## Frameworks:
 ###  -> Scrum Principles
