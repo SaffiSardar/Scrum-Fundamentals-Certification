@@ -87,7 +87,12 @@
 
 ### Risk
 
--
+- Event that can contribute in failure or success of objectives
+- Positive Impacts: Oppurtunities
+- Negative Impacts: Threats
+- Must be managed Proactively
+- Identify based on Probabilty and Impact
+- Multiply both for prioritization
 
 ---
 
