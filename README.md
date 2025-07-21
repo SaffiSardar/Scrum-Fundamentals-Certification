@@ -2,7 +2,12 @@
 
 ## Scrum Roles:
 ### Core Roles:
-Assigned to Product Owner, Scrum Master, Scrum Team
+#### Assigned to:
+##### Product Owner
+Responsible for AChieveing maximum business value for the project, articulates customer requirements, and mantains business justification. He's the voice of the customer.
+##### Scrum Master
+Ensures a impactful environment, he guides, teaches, facilitates scrum practices to the entire team, He also ensures all the scrum modules are being followed.
+##### Scrum Team
 
 ## Frameworks:
 ###  -> Scrum Principles
