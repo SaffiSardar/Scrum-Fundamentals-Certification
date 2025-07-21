@@ -69,8 +69,6 @@
 - Stakeholders, vendors, customers, and others who interact with the Scrum Team but are not part of it.
 - They **interface** with the team but **do not interfere**.
 
----
-
 ### Business Justification
 
 - Perform Business Assessment before starting a project, it helps decision makers to understand the need for change, new peoduct, new service.
@@ -79,11 +77,15 @@
   
 ### Quality
 
--
+-Determined by acceptance of Deliverables and features
 
 ### Change
 
+-
+
 ### Risk
+
+-
 
 ---
 
