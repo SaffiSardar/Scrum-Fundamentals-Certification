@@ -6,8 +6,9 @@
 ##### Product Owner
 Responsible for AChieveing maximum business value for the project, articulates customer requirements, and mantains business justification. He's the voice of the customer.
 ##### Scrum Master
-Ensures a impactful environment, he guides, teaches, facilitates scrum practices to the entire team, He also ensures all the scrum modules are being followed.
+Ensures a impactful environment, he guides, teaches, facilitates scrum practices to the entire team, He also ensures all the scrum modules are being followed. He also has the authority to conduct training session for the team as well as initiate hirings.
 ##### Scrum Team
+
 
 ## Frameworks:
 ###  -> Scrum Principles
