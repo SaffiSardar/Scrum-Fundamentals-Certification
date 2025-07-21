@@ -104,17 +104,24 @@
    - Form Scrum Team (Usually done by Product owner and Scrum Master)
    - Develop Epics
    - Make prioritzed Backlog
-   - Conduct Release Planning 
+   - Conduct Release Planning
+      
 3. Plan and Estimate
    - Create USer Stories
    - Estimate user stories (identifies time and effort required to complete user stories along with scrum team)
    - Commit USer Stories
    - Identify tasks (USer stories broken down into tasks into task lists)
    - Estimate Tasks (Optional)
-   -  
-5. Implement  
-6. Review and Retrospect  
-7. Release
+   - Update Sprint Backlog
+     
+5. Implement
+   - Create Deliverables (Scrumboard used to track work being done) (issue faced by team can be logged to impediment log)
+   - Conduct Daily Standup (Daily time boxed meeting)
+   - Refine Prioritzed product backlog
+   
+7. Review and Retrospect
+   
+9. Release
 
 ---
 
