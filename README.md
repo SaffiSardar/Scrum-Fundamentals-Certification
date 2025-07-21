@@ -72,23 +72,18 @@
 ---
 
 ### Business Justification
-- Ensures continuous value delivery.
-- Maintains the project's viability.
 
+- Perform Business Assessment before starting a project, it helps decision makers to understand the need for change, new peoduct, new service.
+- It helps perform; value Driven delivery, overcome uncertainty of results or outcomes
+- To do this scrum aims to provide deliverable in the early stages of implementation that allows reinvestment and changes in the project
+  
 ### Quality
-- Built-in throughout the lifecycle.
-- Ensures deliverables are fit for purpose.
+
+-
 
 ### Change
-- Managed through the product backlog.
-- Encourages flexibility and responsiveness.
 
 ### Risk
-- Minimized through:
-  - Short iterations
-  - Frequent inspection
-  - Transparency
-  - Risk-based prioritization
 
 ---
 
