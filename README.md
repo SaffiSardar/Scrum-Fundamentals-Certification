@@ -98,11 +98,17 @@
 
 ## Scrum Processes
 
-1. Initiate  
-2. Plan and Estimate  
-3. Implement  
-4. Review and Retrospect  
-5. Release
+1. Initiate
+   - Create Project Vision: Project business case is reviewed, and Product owner is identified.
+   - Identify Scrum Master and business Stakeholder
+   - Form Scrum Team (Usually done by Product owner and Scrum Master)
+   - Develop Epics
+   - Make prioritzed Backlog
+   - Conduct Release Planning 
+3. Plan and Estimate  
+4. Implement  
+5. Review and Retrospect  
+6. Release
 
 ---
 
