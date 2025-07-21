@@ -1,55 +1,98 @@
-# Scrum-Fundamentals-Certification Notes
+# Scrum Fundamentals Certification Notes
 
-## Scrum Roles:
-### Core Roles:
-#### Assigned to:
-##### Product Owner
-Responsible for AChieveing maximum business value for the project, articulates customer requirements, and mantains business justification. He's the voice of the customer.
-##### Scrum Master
-Ensures a impactful environment, he guides, teaches, facilitates scrum practices to the entire team, He also ensures all the scrum modules are being followed. He also has the authority to conduct training session for the team as well as initiate hirings.
-##### Scrum Team
-Responsible for understanding product requirements and created the project deliverables
-### Non-Core Roles:
-#### Assigned to:
-##### Product Owner
+## Scrum Roles
 
+### Core Roles
 
-## Frameworks:
-###  -> Scrum Principles
-###  -> Scrum Aspects
-###  -> Scrum Processes
+#### Product Owner
+- Maximizes business value.
+- Articulates customer requirements.
+- Maintains business justification.
+- Acts as the voice of the customer.
 
-## Scrum Principles:
-###  -> Iterative Development
-How to better manage cahnges, and provide what the client requires, 
-###  -> Empirical PRocess Control
-Core Philosophy of Scrum is dependent on 3 main aspects; Transparency, Adaptation, Inspiration
-###  -> Self Organization
-Focuses on today's workers, who develop signinficantly better when encouraged to self organize rather than command and control
-###  -> Collaboration
-Has three core dimensions; Awareness, Articulation, Appropriation
-###  -> Value Bases Prioritization
-Works towards providing maximum business value
-###  -> Time Boxing
-Emphasises on time as a limiting constraint in scrum, this help effectively managing project planning and execution. Elements include; Sprints, Daily Standup Meetings, Sprint Planning Meetings, Sprint Review Meetings.
+#### Scrum Master
+- Facilitates Scrum practices.
+- Ensures the team environment supports productivity.
+- Guides and trains the team on Scrum.
+- Can initiate hiring and conduct training sessions.
 
-## Scrum Aspects:
-###  -> Organization
-###  -> Business Justification
-###  -> Quality
-###  -> Change
-###  -> Risk
+#### Scrum Team
+- Understands product requirements.
+- Creates the project deliverables.
 
-## Scrum Processes:
-###  -> Initiate
-###  -> Plan And Estimate
-###  -> Implement 
-###  -> Review and Retrospect
-###  -> Release
+### Non-Core Roles
 
-## Cycle:
-<details> <summary>📘 Click to view Scrum Workflow Diagram</summary>
-  
-  ![Scrum Workflow](./Screenshot%20from%202025-07-11%2020-36-10.png)
+- Stakeholders, vendors, customers, and others who interact with the Scrum Team but are not part of it.
+
+---
+
+## Scrum Framework
+
+- **Scrum Principles**
+- **Scrum Aspects**
+- **Scrum Processes**
+
+---
+
+## Scrum Principles
+
+### Iterative Development
+- Manages change effectively.
+- Ensures delivery aligns with client requirements.
+
+### Empirical Process Control
+- Built on:
+  - Transparency  
+  - Adaptation  
+  - Inspection
+
+### Self-Organization
+- Encourages autonomous team collaboration over command-and-control structures.
+
+### Collaboration
+- Three core dimensions:
+  - Awareness  
+  - Articulation  
+  - Appropriation
+
+### Value-Based Prioritization
+- Focuses on delivering the highest business value early and often.
+
+### Time Boxing
+- Emphasizes time constraints to manage planning and execution.
+- Includes:
+  - Sprints  
+  - Daily Standups  
+  - Sprint Planning  
+  - Sprint Reviews
+
+---
+
+## Scrum Aspects
+
+- Organization  
+- Business Justification  
+- Quality  
+- Change  
+- Risk
+
+---
+
+## Scrum Processes
+
+1. Initiate  
+2. Plan and Estimate  
+3. Implement  
+4. Review and Retrospect  
+5. Release
+
+---
+
+## Scrum Workflow Diagram
+
+<details>
+<summary>📘 Click to expand</summary>
+
+![Scrum Workflow](./Screenshot%20from%202025-07-11%2020-36-10.png)
 
 </details>
