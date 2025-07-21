@@ -1,31 +1,5 @@
 # Scrum Fundamentals Certification Notes
 
-## Scrum Roles
-
-### Core Roles
-
-#### Product Owner
-- Maximizes business value.
-- Articulates customer requirements.
-- Maintains business justification.
-- Acts as the voice of the customer.
-
-#### Scrum Master
-- Facilitates Scrum practices.
-- Ensures the team environment supports productivity.
-- Guides and trains the team on Scrum.
-- Can initiate hiring and conduct training sessions.
-
-#### Scrum Team
-- Understands product requirements.
-- Creates the project deliverables.
-
-### Non-Core Roles
-
-- Stakeholders, vendors, customers, and others who interact with the Scrum Team but are not part of it.
-
----
-
 ## Scrum Framework
 
 - **Scrum Principles**
@@ -70,11 +44,51 @@
 
 ## Scrum Aspects
 
-- Organization  
-- Business Justification  
-- Quality  
-- Change  
-- Risk
+### Organization
+
+#### Core Roles
+
+##### Product Owner
+- Maximizes business value.
+- Articulates customer requirements.
+- Maintains business justification.
+- Acts as the voice of the customer.
+
+##### Scrum Master
+- Facilitates Scrum practices.
+- Ensures the team environment supports productivity.
+- Guides and trains the team on Scrum.
+- Can initiate hiring and conduct training sessions.
+
+##### Scrum Team
+- Understands product requirements.
+- Creates the project deliverables.
+
+#### Non-Core Roles
+
+- Stakeholders, vendors, customers, and others who interact with the Scrum Team but are not part of it.
+- They **interface** with the team but **do not interfere**.
+
+---
+
+### Business Justification
+- Ensures continuous value delivery.
+- Maintains the project's viability.
+
+### Quality
+- Built-in throughout the lifecycle.
+- Ensures deliverables are fit for purpose.
+
+### Change
+- Managed through the product backlog.
+- Encourages flexibility and responsiveness.
+
+### Risk
+- Minimized through:
+  - Short iterations
+  - Frequent inspection
+  - Transparency
+  - Risk-based prioritization
 
 ---
 
