@@ -120,8 +120,12 @@
    - Refine Prioritzed product backlog
    
 7. Review and Retrospect
+   - Demonstrate and Validate Sprint
+   - Retropect Sprint (information is documented for future sprints)
    
 9. Release
+   - Ship Deliverables (Documentation stating sprint releases)
+   - Retrospect Release (Identify and learn lessons)
 
 ---
 
