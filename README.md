@@ -105,10 +105,16 @@
    - Develop Epics
    - Make prioritzed Backlog
    - Conduct Release Planning 
-3. Plan and Estimate  
-4. Implement  
-5. Review and Retrospect  
-6. Release
+3. Plan and Estimate
+   - Create USer Stories
+   - Estimate user stories (identifies time and effort required to complete user stories along with scrum team)
+   - Commit USer Stories
+   - Identify tasks (USer stories broken down into tasks into task lists)
+   - Estimate Tasks (Optional)
+   -  
+5. Implement  
+6. Review and Retrospect  
+7. Release
 
 ---
 
