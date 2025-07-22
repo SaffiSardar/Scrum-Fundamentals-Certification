@@ -60,10 +60,18 @@
 ### Time Boxing
 - Emphasizes time constraints to manage planning and execution.
 - Includes:
-  - Sprints  
-  - Daily Standups  
-  - Sprint Planning  
-  - Sprint Reviews
+  - Sprints (1-4 weeks)
+  - Daily Standups (15m) (3 pieces of critical info)
+  - Sprint Planning (Objective defination) (Task Estimation)
+  - Sprint Reviews (4 hrs for 1 month sprint) (Deliver Deliverables)
+- Benifits:
+  - Efficient dev
+  - Less Overhead
+  - high Velocity for teams
+
+### Iterative Development
+- Emphasizes time constraints to manage planning and execution.
+
 
 ---
 
