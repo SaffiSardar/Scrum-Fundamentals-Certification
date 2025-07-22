@@ -40,9 +40,16 @@
 
 ### Collaboration
 - Three core dimensions:
-  - Awareness  
-  - Articulation  
-  - Appropriation
+  - Awareness: Individuals working together should be aware of each other's work.
+  - Articulation: Dividing work into individuals
+  - Appropriation: Using Appropriate Technology
+- Benificial Practice:
+  - Colocation
+- Benifits:
+  - Minimize change requests
+  - Mitigate Risks
+  - Increased Efficiency
+  - COntinous Improvement
 
 ### Value-Based Prioritization
 - Focuses on delivering the highest business value early and often.
