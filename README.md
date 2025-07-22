@@ -70,7 +70,7 @@
   - high Velocity for teams
 
 ### Iterative Development
-- Emphasizes time constraints to manage planning and execution.
+- Repeating/Iterating a process until a goal/process is met. It is flexible to changes as user storied/epics are modified thorughout the project.
 
 
 ---
