@@ -16,9 +16,24 @@
 
 ### Empirical Process Control
 - Built on:
-  - Transparency  
-  - Adaptation  
-  - Inspection
+  - Transparency: Allows the process to be observed by anyone to promote open work culture, Open Processes involve:
+    - Project Vision statement
+    - Prioritzed backlog
+    - Release/PLanning Schedule
+    - Burndown Chart
+    - Scrumboard
+    - All Meeting SChedules
+  - Adaptation: Learn through inspection and transparency to be better:
+    - Daily Standup Meetings
+    - Risk Identification
+    - Change Requests
+    - SCrum Guidance body
+    - Retrospect sprint meetings
+    - Retrospect Release meetings
+  - Inspection: Allows monitoring:
+    - ScrumBoard
+    - Frequent Feedback
+    - Final Inspection
 
 ### Self-Organization
 - Encourages autonomous team collaboration over command-and-control structures.
