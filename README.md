@@ -52,7 +52,10 @@
   - COntinous Improvement
 
 ### Value-Based Prioritization
-- Focuses on delivering the highest business value early and often.
+- Focuses on delivering the highest business value early and often, aswell as problems faced by scrum team shall also be enlisted. Prioritize based on:
+  - Value
+  - Risk
+  - Dependency
 
 ### Time Boxing
 - Emphasizes time constraints to manage planning and execution.
