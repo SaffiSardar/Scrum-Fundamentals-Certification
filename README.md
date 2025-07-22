@@ -129,6 +129,20 @@
 
 ---
 
+## Scrum Ceremonies
+
+1. Project Vision Meeting
+2. User/Focus Group Meeting
+3. Release planning Meeting
+4. Product Backlog Review Meeting
+5. Sprint Planning Meeting
+6. Daily Standum Meeting
+7. Sprint Review Meeting
+8. Retrospect Sprint Meeting
+
+---
+
+
 ## Scrum Workflow Diagram
 
 <details>
